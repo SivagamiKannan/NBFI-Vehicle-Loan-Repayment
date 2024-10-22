@@ -7,3 +7,6 @@ The objective is to predict whether a client is likely to default on their vehic
 
 **Business UseCase:**
 The predictive model aids the NBFC in addressing the issue by assessing the risk level of new loan applicants. If a borrower is likely to default, the NBFC can either reject the application or impose stricter lending conditions, such as higher interest rates or reduced loan amounts. This data-driven approach enables the company to make quicker, more informed loan approval decisions. By minimizing defaults, the NBFC can enhance profitability by reducing loan losses and sustaining a healthier loan portfolio.
+
+**Skills Take Away:**
+Python,EDA & Data Pre Processing,Model Building,Streamlit.
